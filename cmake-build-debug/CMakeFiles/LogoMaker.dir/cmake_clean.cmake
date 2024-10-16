@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/LogoMaker.dir/GUIComponent.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/color.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/colorPicker.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/cursor.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/dropdownMenu.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/eventHandler.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/fileItem.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/fileNode.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/fileSelect.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/fileTree.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/font.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/history.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/image.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/item.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/itemList.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/keyboardShortcut.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/label.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/logoDisplay.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/logoMaker.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/main.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/menu.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/menuBar.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/mouseEvent.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/slider.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/snapshot.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/snapshotInterface.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/states.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/textInput.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/theme.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/themeSelect.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/typing.cpp.obj"
+  "CMakeFiles/LogoMaker.dir/typingBox.cpp.obj"
+  "LogoMaker.exe"
+  "LogoMaker.exe.manifest"
+  "LogoMaker.pdb"
+  "libLogoMaker.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/LogoMaker.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

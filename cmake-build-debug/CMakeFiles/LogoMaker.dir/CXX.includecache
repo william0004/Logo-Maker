@@ -1,0 +1,1070 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/SFML/SFML-2.5.1/include/SFML/Config.hpp
+TargetConditionals.h
+C:/SFML/SFML-2.5.1/include/SFML/TargetConditionals.h
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics.hpp
+SFML/Window.hpp
+-
+SFML/Graphics/BlendMode.hpp
+-
+SFML/Graphics/CircleShape.hpp
+-
+SFML/Graphics/Color.hpp
+-
+SFML/Graphics/ConvexShape.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Font.hpp
+-
+SFML/Graphics/Glyph.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Graphics/PrimitiveType.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/Graphics/RectangleShape.hpp
+-
+SFML/Graphics/RenderStates.hpp
+-
+SFML/Graphics/RenderTarget.hpp
+-
+SFML/Graphics/RenderTexture.hpp
+-
+SFML/Graphics/RenderWindow.hpp
+-
+SFML/Graphics/Shader.hpp
+-
+SFML/Graphics/Shape.hpp
+-
+SFML/Graphics/Sprite.hpp
+-
+SFML/Graphics/Text.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/Transform.hpp
+-
+SFML/Graphics/Transformable.hpp
+-
+SFML/Graphics/Vertex.hpp
+-
+SFML/Graphics/VertexArray.hpp
+-
+SFML/Graphics/VertexBuffer.hpp
+-
+SFML/Graphics/View.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/BlendMode.hpp
+SFML/Graphics/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/CircleShape.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Shape.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Color.hpp
+SFML/Graphics/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/ConvexShape.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Shape.hpp
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Drawable.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/RenderStates.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Export.hpp
+SFML/Config.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Font.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Glyph.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/String.hpp
+-
+map
+-
+string
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Glsl.hpp
+SFML/Graphics/Transform.hpp
+-
+SFML/Graphics/Color.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/Vector3.hpp
+-
+SFML/Graphics/Glsl.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Glsl.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Glyph.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Image.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Color.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+string
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/PrimitiveType.hpp
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Rect.hpp
+SFML/System/Vector2.hpp
+-
+algorithm
+-
+SFML/Graphics/Rect.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Rect.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/RectangleShape.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Shape.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/RenderStates.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/BlendMode.hpp
+-
+SFML/Graphics/Transform.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/RenderTarget.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Color.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/Graphics/View.hpp
+-
+SFML/Graphics/Transform.hpp
+-
+SFML/Graphics/BlendMode.hpp
+-
+SFML/Graphics/RenderStates.hpp
+-
+SFML/Graphics/PrimitiveType.hpp
+-
+SFML/Graphics/Vertex.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/RenderTexture.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Texture.hpp
+-
+SFML/Graphics/RenderTarget.hpp
+-
+SFML/Window/ContextSettings.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/RenderWindow.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/RenderTarget.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Window/Window.hpp
+-
+string
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Shader.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Glsl.hpp
+-
+SFML/Window/GlResource.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/Vector3.hpp
+-
+map
+-
+string
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Shape.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Transformable.hpp
+-
+SFML/Graphics/VertexArray.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Sprite.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Transformable.hpp
+-
+SFML/Graphics/Vertex.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Text.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+SFML/Graphics/Transformable.hpp
+-
+SFML/Graphics/Font.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/Graphics/VertexArray.hpp
+-
+SFML/System/String.hpp
+-
+string
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Texture.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Image.hpp
+-
+SFML/Window/GlResource.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Transform.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Transformable.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Transform.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/Vertex.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Color.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/VertexArray.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Vertex.hpp
+-
+SFML/Graphics/PrimitiveType.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/VertexBuffer.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/PrimitiveType.hpp
+-
+SFML/Graphics/Drawable.hpp
+-
+SFML/Window/GlResource.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Graphics/View.hpp
+SFML/Graphics/Export.hpp
+-
+SFML/Graphics/Rect.hpp
+-
+SFML/Graphics/Transform.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System.hpp
+SFML/Config.hpp
+-
+SFML/System/Clock.hpp
+-
+SFML/System/Err.hpp
+-
+SFML/System/FileInputStream.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Lock.hpp
+-
+SFML/System/MemoryInputStream.hpp
+-
+SFML/System/Mutex.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Sleep.hpp
+-
+SFML/System/String.hpp
+-
+SFML/System/Thread.hpp
+-
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.hpp
+-
+SFML/System/Time.hpp
+-
+SFML/System/Utf.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/Vector3.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Clock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Err.hpp
+SFML/System/Export.hpp
+-
+ostream
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Export.hpp
+SFML/Config.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/FileInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdio
+-
+string
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/InputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Lock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/MemoryInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Export.hpp
+-
+cstdlib
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Mutex.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/NonCopyable.hpp
+SFML/System/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Sleep.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/String.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Utf.hpp
+-
+iterator
+-
+locale
+-
+string
+-
+SFML/System/String.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/String.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Thread.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+SFML/System/Thread.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Thread.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/System/ThreadLocal.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/ThreadLocalPtr.hpp
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/ThreadLocalPtr.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Time.hpp
+SFML/System/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Utf.hpp
+SFML/Config.hpp
+-
+algorithm
+-
+locale
+-
+string
+-
+cstdlib
+-
+SFML/System/Utf.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Utf.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Vector2.hpp
+SFML/System/Vector2.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Vector2.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Vector3.hpp
+SFML/System/Vector3.inl
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/System/Vector3.inl
+
+C:/SFML/SFML-2.5.1/include/SFML/Window.hpp
+SFML/System.hpp
+-
+SFML/Window/Clipboard.hpp
+-
+SFML/Window/Context.hpp
+-
+SFML/Window/ContextSettings.hpp
+-
+SFML/Window/Cursor.hpp
+-
+SFML/Window/Event.hpp
+-
+SFML/Window/Joystick.hpp
+-
+SFML/Window/Keyboard.hpp
+-
+SFML/Window/Mouse.hpp
+-
+SFML/Window/Sensor.hpp
+-
+SFML/Window/Touch.hpp
+-
+SFML/Window/VideoMode.hpp
+-
+SFML/Window/Window.hpp
+-
+SFML/Window/WindowHandle.hpp
+-
+SFML/Window/WindowStyle.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Clipboard.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/String.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Context.hpp
+SFML/Window/Export.hpp
+-
+SFML/Window/GlResource.hpp
+-
+SFML/Window/ContextSettings.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/ContextSettings.hpp
+SFML/Config.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Cursor.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Event.hpp
+SFML/Config.hpp
+-
+SFML/Window/Joystick.hpp
+-
+SFML/Window/Keyboard.hpp
+-
+SFML/Window/Mouse.hpp
+-
+SFML/Window/Sensor.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Export.hpp
+SFML/Config.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/GlResource.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Joystick.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/String.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Keyboard.hpp
+SFML/Window/Export.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Mouse.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Sensor.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/Vector3.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Touch.hpp
+SFML/Window/Export.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/VideoMode.hpp
+SFML/Window/Export.hpp
+-
+vector
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/Window.hpp
+SFML/Window/ContextSettings.hpp
+-
+SFML/Window/Cursor.hpp
+-
+SFML/Window/Export.hpp
+-
+SFML/Window/GlResource.hpp
+-
+SFML/Window/VideoMode.hpp
+-
+SFML/Window/WindowHandle.hpp
+-
+SFML/Window/WindowStyle.hpp
+-
+SFML/System/Clock.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/String.hpp
+-
+SFML/System/Vector2.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/WindowHandle.hpp
+SFML/Config.hpp
+-
+
+C:/SFML/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
+
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.cpp
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+SFML/Graphics.hpp
+-
+states.h
+E:/study/CS 008/FINAL/LogoMaker/states.h
+snapshotInterface.h
+E:/study/CS 008/FINAL/LogoMaker/snapshotInterface.h
+eventHandler.h
+E:/study/CS 008/FINAL/LogoMaker/eventHandler.h
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+keyboardShortcut.h
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.h
+
+E:/study/CS 008/FINAL/LogoMaker/color.cpp
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/color.h
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/colorPicker.cpp
+colorPicker.h
+E:/study/CS 008/FINAL/LogoMaker/colorPicker.h
+
+E:/study/CS 008/FINAL/LogoMaker/colorPicker.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+slider.h
+E:/study/CS 008/FINAL/LogoMaker/slider.h
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+image.h
+E:/study/CS 008/FINAL/LogoMaker/image.h
+
+E:/study/CS 008/FINAL/LogoMaker/cursor.cpp
+cursor.h
+E:/study/CS 008/FINAL/LogoMaker/cursor.h
+
+E:/study/CS 008/FINAL/LogoMaker/cursor.h
+iostream
+-
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/dropdownMenu.cpp
+dropdownMenu.h
+E:/study/CS 008/FINAL/LogoMaker/dropdownMenu.h
+
+E:/study/CS 008/FINAL/LogoMaker/dropdownMenu.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+itemList.h
+E:/study/CS 008/FINAL/LogoMaker/itemList.h
+history.h
+E:/study/CS 008/FINAL/LogoMaker/history.h
+
+E:/study/CS 008/FINAL/LogoMaker/eventHandler.cpp
+eventHandler.h
+E:/study/CS 008/FINAL/LogoMaker/eventHandler.h
+
+E:/study/CS 008/FINAL/LogoMaker/eventHandler.h
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/fileItem.cpp
+fileItem.h
+E:/study/CS 008/FINAL/LogoMaker/fileItem.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileItem.h
+Color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+image.h
+E:/study/CS 008/FINAL/LogoMaker/image.h
+states.h
+E:/study/CS 008/FINAL/LogoMaker/states.h
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileNode.cpp
+fileNode.h
+E:/study/CS 008/FINAL/LogoMaker/fileNode.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileNode.h
+map
+-
+fileItem.h
+E:/study/CS 008/FINAL/LogoMaker/fileItem.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileSelect.cpp
+fileSelect.h
+E:/study/CS 008/FINAL/LogoMaker/fileSelect.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileSelect.h
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+fileTree.h
+E:/study/CS 008/FINAL/LogoMaker/fileTree.h
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileTree.cpp
+fileTree.h
+E:/study/CS 008/FINAL/LogoMaker/fileTree.h
+
+E:/study/CS 008/FINAL/LogoMaker/fileTree.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+fileNode.h
+E:/study/CS 008/FINAL/LogoMaker/fileNode.h
+
+E:/study/CS 008/FINAL/LogoMaker/font.cpp
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+
+E:/study/CS 008/FINAL/LogoMaker/font.h
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/history.cpp
+history.h
+E:/study/CS 008/FINAL/LogoMaker/history.h
+
+E:/study/CS 008/FINAL/LogoMaker/history.h
+snapshotInterface.h
+E:/study/CS 008/FINAL/LogoMaker/snapshotInterface.h
+keyboardShortcut.h
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+stack
+-
+history.cpp
+E:/study/CS 008/FINAL/LogoMaker/history.cpp
+
+E:/study/CS 008/FINAL/LogoMaker/image.cpp
+image.h
+E:/study/CS 008/FINAL/LogoMaker/image.h
+
+E:/study/CS 008/FINAL/LogoMaker/image.h
+SFML/Graphics.hpp
+-
+iostream
+-
+
+E:/study/CS 008/FINAL/LogoMaker/item.cpp
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+
+E:/study/CS 008/FINAL/LogoMaker/item.h
+typingBox.h
+E:/study/CS 008/FINAL/LogoMaker/typingBox.h
+iostream
+-
+
+E:/study/CS 008/FINAL/LogoMaker/itemList.cpp
+itemList.h
+E:/study/CS 008/FINAL/LogoMaker/itemList.h
+
+E:/study/CS 008/FINAL/LogoMaker/itemList.h
+SFML/Graphics.hpp
+-
+vector
+-
+iostream
+-
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.cpp
+keyboardShortcut.h
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.h
+
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.h
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/label.cpp
+label.h
+E:/study/CS 008/FINAL/LogoMaker/label.h
+
+E:/study/CS 008/FINAL/LogoMaker/label.h
+SFML/Graphics.hpp
+-
+
+E:/study/CS 008/FINAL/LogoMaker/logoDisplay.cpp
+logoDisplay.h
+E:/study/CS 008/FINAL/LogoMaker/logoDisplay.h
+
+E:/study/CS 008/FINAL/LogoMaker/logoDisplay.h
+SFML/Graphics.hpp
+-
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/logoMaker.cpp
+logoMaker.h
+E:/study/CS 008/FINAL/LogoMaker/logoMaker.h
+
+E:/study/CS 008/FINAL/LogoMaker/logoMaker.h
+fstream
+-
+menuBar.h
+E:/study/CS 008/FINAL/LogoMaker/menuBar.h
+slider.h
+E:/study/CS 008/FINAL/LogoMaker/slider.h
+textInput.h
+E:/study/CS 008/FINAL/LogoMaker/textInput.h
+font.h
+E:/study/CS 008/FINAL/LogoMaker/font.h
+dropdownMenu.h
+E:/study/CS 008/FINAL/LogoMaker/dropdownMenu.h
+logoDisplay.h
+E:/study/CS 008/FINAL/LogoMaker/logoDisplay.h
+colorPicker.h
+E:/study/CS 008/FINAL/LogoMaker/colorPicker.h
+fileSelect.h
+E:/study/CS 008/FINAL/LogoMaker/fileSelect.h
+themeSelect.h
+E:/study/CS 008/FINAL/LogoMaker/themeSelect.h
+cmath
+E:/study/CS 008/FINAL/LogoMaker/cmath
+
+E:/study/CS 008/FINAL/LogoMaker/main.cpp
+logoMaker.h
+E:/study/CS 008/FINAL/LogoMaker/logoMaker.h
+
+E:/study/CS 008/FINAL/LogoMaker/menu.cpp
+menu.h
+E:/study/CS 008/FINAL/LogoMaker/menu.h
+
+E:/study/CS 008/FINAL/LogoMaker/menu.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+item.h
+E:/study/CS 008/FINAL/LogoMaker/item.h
+itemList.h
+E:/study/CS 008/FINAL/LogoMaker/itemList.h
+history.h
+E:/study/CS 008/FINAL/LogoMaker/history.h
+
+E:/study/CS 008/FINAL/LogoMaker/menuBar.cpp
+menuBar.h
+E:/study/CS 008/FINAL/LogoMaker/menuBar.h
+
+E:/study/CS 008/FINAL/LogoMaker/menuBar.h
+menu.h
+E:/study/CS 008/FINAL/LogoMaker/menu.h
+
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.cpp
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+SFML/Graphics.hpp
+-
+iostream
+-
+mouseEvent.cpp
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.cpp
+
+E:/study/CS 008/FINAL/LogoMaker/slider.cpp
+slider.h
+E:/study/CS 008/FINAL/LogoMaker/slider.h
+
+E:/study/CS 008/FINAL/LogoMaker/slider.h
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+cstring
+E:/study/CS 008/FINAL/LogoMaker/cstring
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/snapshot.cpp
+snapshot.h
+E:/study/CS 008/FINAL/LogoMaker/snapshot.h
+
+E:/study/CS 008/FINAL/LogoMaker/snapshot.h
+SFML/Graphics.hpp
+-
+states.h
+E:/study/CS 008/FINAL/LogoMaker/states.h
+snapshot.cpp
+E:/study/CS 008/FINAL/LogoMaker/snapshot.cpp
+
+E:/study/CS 008/FINAL/LogoMaker/snapshotInterface.cpp
+snapshotInterface.h
+E:/study/CS 008/FINAL/LogoMaker/snapshotInterface.h
+
+E:/study/CS 008/FINAL/LogoMaker/snapshotInterface.h
+snapshot.h
+E:/study/CS 008/FINAL/LogoMaker/snapshot.h
+
+E:/study/CS 008/FINAL/LogoMaker/states.cpp
+states.h
+E:/study/CS 008/FINAL/LogoMaker/states.h
+
+E:/study/CS 008/FINAL/LogoMaker/states.h
+map
+-
+
+E:/study/CS 008/FINAL/LogoMaker/textInput.cpp
+textInput.h
+E:/study/CS 008/FINAL/LogoMaker/textInput.h
+
+E:/study/CS 008/FINAL/LogoMaker/textInput.h
+SFML/Graphics.hpp
+-
+iostream
+-
+GUIComponent.h
+E:/study/CS 008/FINAL/LogoMaker/GUIComponent.h
+typing.h
+E:/study/CS 008/FINAL/LogoMaker/typing.h
+typingBox.h
+E:/study/CS 008/FINAL/LogoMaker/typingBox.h
+cursor.h
+E:/study/CS 008/FINAL/LogoMaker/cursor.h
+label.h
+E:/study/CS 008/FINAL/LogoMaker/label.h
+history.h
+E:/study/CS 008/FINAL/LogoMaker/history.h
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/theme.cpp
+theme.h
+E:/study/CS 008/FINAL/LogoMaker/theme.h
+
+E:/study/CS 008/FINAL/LogoMaker/theme.h
+SFML/Graphics.hpp
+-
+color.h
+E:/study/CS 008/FINAL/LogoMaker/color.h
+
+E:/study/CS 008/FINAL/LogoMaker/themeSelect.cpp
+themeSelect.h
+E:/study/CS 008/FINAL/LogoMaker/themeSelect.h
+
+E:/study/CS 008/FINAL/LogoMaker/themeSelect.h
+fileSelect.h
+E:/study/CS 008/FINAL/LogoMaker/fileSelect.h
+theme.h
+E:/study/CS 008/FINAL/LogoMaker/theme.h
+
+E:/study/CS 008/FINAL/LogoMaker/typing.cpp
+typing.h
+E:/study/CS 008/FINAL/LogoMaker/typing.h
+
+E:/study/CS 008/FINAL/LogoMaker/typing.h
+iostream
+-
+SFML/Graphics.hpp
+-
+keyboardShortcut.h
+E:/study/CS 008/FINAL/LogoMaker/keyboardShortcut.h
+mouseEvent.h
+E:/study/CS 008/FINAL/LogoMaker/mouseEvent.h
+
+E:/study/CS 008/FINAL/LogoMaker/typingBox.cpp
+typingBox.h
+E:/study/CS 008/FINAL/LogoMaker/typingBox.h
+
+E:/study/CS 008/FINAL/LogoMaker/typingBox.h
+SFML/Graphics.hpp
+-
+
