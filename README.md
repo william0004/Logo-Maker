@@ -14,15 +14,21 @@ LogoMaker is a graphical application built using the SFML (Simple and Fast Multi
 ## Showcase
 [Watch the video](https://github.com/william0004/Logo-Maker/blob/main/showcase/video.mp4)
 
-Exmaple Output
+<video width="640" height="360" controls>
+  <source src="https://github.com/william0004/Logo-Maker/blob/main/showcase/video.mp4" type="video/mp4">
+</video>
+
+- Exmaple Output
+
 <img src='https://github.com/william0004/Logo-Maker/blob/main/save/logo_121_5_8_19_39_28.png' title='Output1' width='500' />
 <img src='https://github.com/william0004/Logo-Maker/blob/main/save/logo_121_5_8_20_14_55.png' title='Output2' width='500' />
 
-Others
-<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/color.PNG' title='color' width='500' />
-<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/font.PNG' title='font' width='500' />
-<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/theme1.PNG' title='theme1' width='500' />
-<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/theme2.PNG' title='theme2' width='500' />
+- Others
+- 
+<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/color.PNG' title='color' width='300' />
+<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/font.PNG' title='font' width='300' />
+<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/theme1.png' title='theme1' width='500' />
+<img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/theme2.png' title='theme2' width='500' />
 <img src='https://github.com/william0004/Logo-Maker/blob/main/showcase/theme3.PNG' title='theme3' width='500' />
 
 ## Prerequisites
