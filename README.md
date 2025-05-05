@@ -48,4 +48,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - JetBrains CLion for the initial development environment.
 ```
 
-Save this as `README.md` in the root of your project directory. Adjust the content as needed to reflect any additional details about your project.
